@@ -5,15 +5,8 @@ body {
     background-color: #f4f4f4;
 }
 
-header {
-    background-color: #333;
-    color: #fff;
-    padding: 10px 0;
-    text-align: center;
-}
-
 nav {
-    background-color: #444;
+    background-color: #e82b2b;
     color: #fff;
     padding: 10px;
     text-align: center;
